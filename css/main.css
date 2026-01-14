@@ -1,0 +1,17 @@
+body {
+	background: darkgrey;
+}
+h1 {
+	color: white;
+}
+h2 {
+	color :pink;
+}
+p {
+	color : yellow;
+}
+div {
+	border-width: 5px;
+	border-style: solid; 
+	border-color: black;
+}
