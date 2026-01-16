@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<title>Formulaires</title>
+
+	<style>
+		div{
+			margin: 10px 0;
+		}
+	</style>
+
+</head>
+
+<body>
+
+<form action="validation.php" method="POST">
+	<div>
+		<label for="nom-id">Nom</label>
+		<input type="text" name="nom" id="nom-id">
+	</div>
+
+	<div>
+		<label for="prenom-id">Prénom</label>
+		<input type="text" name="prenom" id="prenom-id">
+	</div>
+
+	<div>
+		<label for="mdp-id">Mot de passe</label>
+		<input type="password" name="mdp" id="mdp-id">
+	</div>
+
+	<div>
+		<input type="radio" name="genre" value="Homme" id="M">
+		<label for="M">Homme</label>
+		<input type="radio" name="genre" value="Femme" id="F">
+		<label for="F">Femme</label>
+		<input type="radio" name="genre" value="Autre" id="A">
+		<label for="A">Autre</label>
+	</div>
+
+
+	<div>
+		<input type="checkbox" name="resteeconnectee"
+		value="" id="resteeconnectee" checked>
+		<label for="resteconnectee">Restée connecté.é</label>
+	</div>
+
+	<div>
+		<input type="checkbox" name="newsletter"
+		value="oui" id="newsletter">
+		<label for="newsletter">M'inscrire à la newsletter</label>
+	</div>
+
+	<div>
+		<input type="submit" value="Envoyer">
+	</div>
+
+
+
+</form>
+
+
+
+
+
+	
+</body>
+</html>
