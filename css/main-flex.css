@@ -1,0 +1,61 @@
+/*body {
+	font-family: 'Helvetica', sans-serif;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 50px auto;
+}
+
+.item {
+	text-align: center;
+	background: #6c8e80;
+	color: white;
+} */
+body {
+  font-family: 'Helvetica', sans-serif;
+  background: #f4f4f4; /* pour contraster avec les cartes */
+
+  margin: 0;
+  /*padding-top: 100px;*/
+}
+
+.container {
+  max-width: 1000px;
+  margin: 120px auto 50px auto; /* descend le bloc */
+  display: flex;
+  justify-content: center; /* <-- centre horizontalement */
+  gap: 20px;
+}
+
+.item {
+  flex: 1;
+  background: #6c8e80; /* ton vert */
+  color: white;
+  width: 300px;
+  padding: 20px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column; /* image, titre, texte en colonne */
+  align-items: center;    /* centrer horizontalement */
+}
+
+.item img {
+  width: 100px;           /* taille fixe pour homogénéité */
+  height: auto;
+  object-fit: cover; /*pour garder un cadrage propre*/
+  /*border-radius: 50%;      effet portrait rond */
+  margin-bottom: 15px;
+}
+
+.item h2 {
+  margin: 10px 0;
+  font-size: 1.2rem;
+  text-transform: uppercase; /* comme sur ton exemple */
+}
+
+.item p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  text-align: justify;
+}
