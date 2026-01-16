@@ -1,0 +1,11 @@
+
+body {
+	background-color: #EEEEEE;
+}
+
+form {
+	background-color: #FFFFFF;
+	max-width: 900px;
+	margin : 50px auto;
+	padding: 50px;
+}
