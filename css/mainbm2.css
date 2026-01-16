@@ -1,0 +1,47 @@
+body {
+	background-color: grey ;
+}
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #24489D;
+	border: 5px solid white;
+	font-size: 36px;
+	color : white;
+	margin: 40px auto;
+	padding: 40px;
+}
+.Rubrique {
+	background-color: lightblue;
+	max-width: 800px;
+	border: 5px solid white;
+	color : white;
+	margin : 20px  auto;
+	padding:  0 20px;
+}
+.Article{
+	background-color: white;
+	margin : 20px 0; 
+	padding : 20px;
+}
+div{
+	margin: 15px auto ;
+	padding: 50px 40px ;
+	
+}
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #24489D;
+	border: 5px ;
+	font-size: 36px;
+	color : white;
+	margin: 20px 0;
+	padding: 20px;
+}
+p{
+	color: black;
+}
+h3 {
+	color : blue;
+}
