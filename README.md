@@ -1,12 +1,12 @@
-# Projet HTML / CSS
+# Projet HTML / CSS / JS
 
 ## 📝 Description
-Projet réalisé pour pratiquer la mise en page et le stylage en HTML et CSS.
+Projet réalisé pour pratiquer la mise en page et le stylage en HTML, CSS et JS.
 
 ## 🛠️ Technologies utilisées
 - HTML5
 - CSS3
-- Js
+- JS
 
 ## 🎯 Objectifs
 - Structurer une page web
