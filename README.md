@@ -1,7 +1,7 @@
 # Projet HTML / CSS / JS
 
 ## 📝 Description
-Projet réalisé pour pratiquer la mise en page et le stylage en HTML, CSS et JS.
+Projet réalisé pour pratiquer la mise en page et le stylage en HTML, CSS et JS. Page HTML statique enrichie avec JavaScript pour gérer l’affichage dynamique des rubriques (DOM, events, classList).
 
 ## 🛠️ Technologies utilisées
 - HTML5
@@ -15,5 +15,5 @@ Projet réalisé pour pratiquer la mise en page et le stylage en HTML, CSS et JS
 
 ## 🚀 Lancer le projet en local
 Aucune installation requise.  
-Ouvrir le fichier `index.html` dans un navigateur web.
+Ouvrir le ou les fichier(s) `index.html ou .html` dans un navigateur web.
 
