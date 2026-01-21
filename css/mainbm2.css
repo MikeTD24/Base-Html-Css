@@ -45,3 +45,11 @@ p{
 h3 {
 	color : blue;
 }
+.rubrique-title {
+    cursor: pointer;
+    user-select: none;
+}
+
+.hidden {
+    display: none;
+}
