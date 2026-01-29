@@ -6,7 +6,7 @@ body {
 h1 {
 	text-transform: uppercase;
 	text-align: center;
-	background-image: url('../images/heart-large.jpg');
+	background-image: url('../assets/heart-large.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -30,7 +30,7 @@ h2 {
 	
 	padding: 20px ;
 
-	background-image: url('../images/opera-house-night.jpg');
+	background-image: url('../assets/opera-house-night.jpg');
 	background-repeat: no-repeat;
 	background-position: center; 
 	background-attachment: fixed;
@@ -39,3 +39,4 @@ div {
 	max-width: 650px;
 	margin: 0 auto;
 }
+
