@@ -1,0 +1,41 @@
+body {
+	background-color: grey ;
+	font-family: "Roboto", sans-serif;
+	color : white;
+}
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	background-image: url('../images/heart-large.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border: 5px solid white;
+	max-width: 800px;
+	font-size: 36px;
+	color : white;
+	margin: 40px auto;
+	padding: 40px;
+
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 500px;
+}
+h2 {
+	text-transform: uppercase;
+	border: 5px solid white;
+	color : white;
+	font-family: "Ubuntu", sans-serif;
+	margin: 40px auto;
+	max-width: 800px;
+	
+	padding: 20px ;
+
+	background-image: url('../images/opera-house-night.jpg');
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-attachment: fixed;
+}
+div {
+	max-width: 650px;
+	margin: 0 auto;
+}
