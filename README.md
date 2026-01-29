@@ -2,7 +2,7 @@
 
 ## 📝 Description
 Projet réalisé pour pratiquer la mise en page et le stylage en HTML, CSS et JS. 
-Page HTML statique enrichie avec JavaScript pour gérer l’affichage dynamique des rubriques (DOM, events, classList).
+Page HTML statique enrichie avec JavaScript pour gérer l’affichage dynamique des rubriques (DOM, events, classList). Page HTML statique responsive à trois niveaux.
 
 ## 🛠️ Technologies utilisées
 - HTML5
