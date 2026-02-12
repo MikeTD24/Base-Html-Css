@@ -14,7 +14,7 @@ Page HTML statique enrichie avec JavaScript pour gérer l’affichage dynamique 
 - Appliquer des styles CSS
 - Créer une mise en page claire
 
-##📸 Aperçu
+## 📸 Aperçu
 <img width="1437" height="733" alt="ScreenS mt" src="https://github.com/user-attachments/assets/6007bbe7-3f27-47fb-87e9-366992fc7d44" />
 <img width="1280" height="651" alt="exercice-flex-printscreen-resultat" src="https://github.com/user-attachments/assets/6e0cc2ec-e4fe-4ccd-a164-c90d569630a4" />
 
